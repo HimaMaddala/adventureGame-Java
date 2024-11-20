@@ -11,6 +11,5 @@ A simple Java-based text adventure game where the player navigates through rooms
 - **Win Condition:** Find the treasure to win the game.
 
 ### How to Play
-1. Run the program in a Java-supported environment.
-2. Use text commands like `help` to see available actions.
-3. Explore, collect items, and make strategic choices to succeed.
+1. Run Main program
+2. Use text commands like `help` to see available actions in console.
